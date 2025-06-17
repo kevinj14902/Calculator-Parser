@@ -1,0 +1,5 @@
+<INT,3>
+<ADD>
+<INT,5>
+<MULT>
+<INT,2>
